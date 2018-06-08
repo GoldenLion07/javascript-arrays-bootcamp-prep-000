@@ -20,6 +20,6 @@ function accessElementInArray(array, index){
   return array[index]
 }
 function removeElementFromBeginningOfArray(array){
-  array.slice(1)
-  return newArray
+  var newarray = array.slice(1)
+  return newarray
 }
