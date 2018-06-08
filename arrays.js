@@ -1,6 +1,7 @@
-var cities = ["New York", "San Francisco"]
- 
-[...cities, "Philadelphia"] /
+var chocolateBars;
+chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
+var chocolateBars = ["snickers", "hundred grand"]
+choclateBars = ["kitkat", ...chocolateBars]
 
 function addElementToBeginningOfArray(a, b){
   var c = a
