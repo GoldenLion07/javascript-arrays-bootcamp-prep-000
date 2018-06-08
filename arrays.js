@@ -11,6 +11,6 @@ function destructivelyAddElementToBeginningofArray(a, b){
   a.unshift(b)
   return a
 }
-function accessElementInArray(){
+function accessElementInArray(array, index){
 choclateBars[1]
 }
