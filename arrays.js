@@ -9,7 +9,3 @@ function destructivelyAddElementToBeginningofArray(a, b) {
   a.unshift(b)
   return a
 }
-
-function accessElementinArray(a, b) {
-  
-}
